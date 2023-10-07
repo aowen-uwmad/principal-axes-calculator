@@ -10,7 +10,12 @@ of theoretical calculations, or to obtain the dipole moments for the isotopologu
 
 ## Requirements
 
-See [requirements.txt](requirements.txt)
+```
+python==3.7
+mendeleev==0.6.1
+numpy==1.19.5
+pandas==1.2.1
+```
 
 ## Input
 
