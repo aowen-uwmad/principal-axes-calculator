@@ -10,6 +10,9 @@ of theoretical calculations, or to obtain the dipole moments for the isotopologu
 
 ## Requirements
 
+The following versions were used for building this tool. Compatibility with other versions was not tested. 
+
+
 ```
 python==3.7
 mendeleev==0.6.1
